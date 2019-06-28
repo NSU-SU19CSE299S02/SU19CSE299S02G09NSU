@@ -215,14 +215,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "   ",
-			"settings":
-			{
-				"buffer_size": 3,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -282,7 +274,7 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ashrafulislam/Dev/srvup"
+		"/Users/ashrafulislam/Dev/SU19CSE299S02G09NSU/srvup"
 	],
 	"file_history":
 	[
@@ -414,37 +406,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
