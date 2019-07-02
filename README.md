@@ -1,6 +1,6 @@
 # SU19CSE299S02G09NSU
 <h3> A real life project for my CSE299 course in university.</h3>
-<center> <h2> Video Membership Web App </h2> </center>
+ <h2> <center> Video Membership Web App  </center> </h2>
 1.	Project Idea in brief:
 
 A video membership web app where trainer and teachers from anywhere can upload their video courses and students can buy them. The main focus of my web app is to build a successful web based learning platform to all learners. 
