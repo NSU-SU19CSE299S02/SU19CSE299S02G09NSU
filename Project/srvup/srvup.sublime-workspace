@@ -3,238 +3,22 @@
 	{
 		"selected_items":
 		[
-			[
-				"follow",
-				"following"
-			],
-			[
-				"li",
-				"likes"
-			],
-			[
-				"Serializer",
-				"SerializerMethodField"
-			],
-			[
-				"get",
-				"get_absolute_url"
-			],
-			[
-				"Twee",
-				"TweetManager"
-			],
-			[
-				"par",
-				"parent_obj"
-			],
-			[
-				"s",
-				"self"
-			],
-			[
-				"pos",
-				"post_save_user_receiver"
-			],
-			[
-				"User",
-				"UserProfile"
-			],
-			[
-				"togg",
-				"toggle_user"
-			],
-			[
-				"user",
-				"user_profile"
-			],
-			[
-				"re",
-				"redirect"
-			],
-			[
-				"next",
-				"nextTweetUrl"
-			],
-			[
-				"key",
-				"keydown"
-			],
-			[
-				"search",
-				"searchQuery"
-			],
-			[
-				"text",
-				"textarea"
-			],
-			[
-				"date",
-				"dateDisplay"
-			],
-			[
-				"time",
-				"timesince"
-			],
-			[
-				"times",
-				"timestamp"
-			],
-			[
-				"this",
-				"this_"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"Model",
-				"TweetModelSerializer"
-			],
-			[
-				"rever",
-				"reverse_lazy"
-			],
-			[
-				"back",
-				"background-color\tproperty"
-			],
-			[
-				"p",
-				"print"
-			],
-			[
-				"Dele",
-				"DetailView"
-			],
-			[
-				"Tweet",
-				"TweetModelForm"
-			],
-			[
-				"con",
-				"context"
-			],
-			[
-				"cre",
-				"create_view"
-			],
-			[
-				"fo",
-				"from"
-			],
-			[
-				"get_",
-				"get_context_data"
-			],
-			[
-				"Tw",
-				"TweetListView"
-			],
-			[
-				"cont",
-				"context"
-			],
-			[
-				"o",
-				"obj"
-			],
-			[
-				"twee",
-				"tweet_detail_view"
-			],
-			[
-				"se",
-				"settings"
-			],
-			[
-				"ur",
-				"url"
-			],
-			[
-				"url",
-				"urlpatterns"
-			],
-			[
-				"for",
-				"format"
-			],
-			[
-				"veer",
-				"verbose_name"
-			],
-			[
-				"get_user",
-				"get_user_model"
-			],
-			[
-				"in",
-				"inactive"
-			],
-			[
-				"user_",
-				"user_permissions"
-			],
-			[
-				"ar",
-				"args"
-			],
-			[
-				"__",
-				"__init__"
-			],
-			[
-				"Use",
-				"UserChangeForm"
-			],
-			[
-				"le",
-				"label"
-			],
-			[
-				"pass",
-				"password"
-			],
-			[
-				"auth",
-				"authenticate"
-			],
-			[
-				"mode",
-				"models"
-			],
-			[
-				"conten",
-				"content_type"
-			],
-			[
-				"ser_",
-				"set_password"
-			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/manage.py",
+			"settings":
+			{
+				"buffer_size": 803,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
 	[
-		[
-			[
-				[
-					"Packages/Python/Python.sublime-build",
-					""
-				],
-				[
-					"Packages/Python/Python.sublime-build",
-					"Syntax Check"
-				]
-			],
-			[
-				"Packages/Python/Python.sublime-build",
-				""
-			]
-		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -243,24 +27,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"",
-				"Set Syntax: Python"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			]
 		],
 		"width": 0.0
 	},
 	"console":
 	{
-		"height": 199.0,
+		"height": 0.0,
 		"history":
 		[
-			"git --version",
-			"git clone https://github.com/alvee32/SocialWebApp.git"
 		]
 	},
 	"distraction_free":
@@ -274,108 +48,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ashrafulislam/Dev/SU19CSE299S02G09NSU/srvup"
+		"/Users/alvee32/Dev/SU19CSE299S02G09NSU/Project/srvup",
+		"/Users/alvee32/Dev/SU19CSE299S02G09NSU/Project/srvup/src",
+		"/Users/alvee32/Dev/SU19CSE299S02G09NSU/Project/srvup/src/srvup"
 	],
 	"file_history":
 	[
-		"/SSD/Upwork/Client 1/Project 1/Bellagio-master/css/style.css",
-		"/Users/ashrafulislam/Downloads/Bellagio-master/index.html",
-		"/Users/ashrafulislam/Downloads/Bellagio-master/css/style.css",
-		"/Users/ashrafulislam/test.html",
-		"/Users/ashrafulislam/webpractice",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/settings/base.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/settings/local.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/settings/production.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/urls.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/templates/accounts/login.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/templates/accounts/user_detail.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/templates/accounts/snippets/recommend.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/views.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/templatetags/recommended.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/tweet_list.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/models.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/templatetags/__init__.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/templates/base.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/urls.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/templates/hashtags/tag_view.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/api/views.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/api/__init__.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/models.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/api/views.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/search_form.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/api/serializers.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/views.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/templates/search.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/urls.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/templates/reply-modal.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/tweet_detail.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/api/urls.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/views.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/form.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/api/urls.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/models.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/signals.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/views.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/hashtags/admin.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/admin.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/api/serializers.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/api/pagination.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/api/__init__.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/accounts/api/__init__.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/create_view.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/lib/python3.7/site-packages/django/urls/conf.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/forms.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/templates/navbar.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/templates/home.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/tests.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/detail_view.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/list_view.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/wsgi.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/delete_confirm.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/update_view.html",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/mixins.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/validators.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/admin.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweets/templates/tweets/validators.py",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/static-storage/static/css/custom.css",
-		"/Users/ashrafulislam/Dev/webapp/tweetme/src/tweetme/settings/__init__.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/views.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/templates/tweets/list_view.html",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/templates/tweets/detail_view.html",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/urls.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/urls.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/admin.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/templates/tweets/urls.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/templates/tweets/create_view.html",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/templates/tweets/delete_confirm.html",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweets/templates/tweets/update_view.html",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/settings/local.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/settings/base.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/views.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/templates/home.html",
-		"/Users/ashrafulislam/Dev/tweetme/src/static-storage/static/css/custom.css",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/settings/__init__.py",
-		"/Users/ashrafulislam/Dev/tweetme/bin/python-config",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/settings/production.py",
-		"/Users/ashrafulislam/Dev/tweetme/src/tweetme/settings.py",
-		"/Users/ashrafulislam/SocialWebApp/helloworld.java",
-		"/Users/ashrafulislam/Desktop/untitled folder/test.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/view.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/url.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/signup.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/sign.html",
-		"/Users/ashrafulislam/Desktop/untitled folder/permit.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/model.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/dbUrl.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/authentication.py",
-		"/Users/ashrafulislam/Desktop/untitled folder/untitled",
-		"/Users/ashrafulislam/Desktop/untitled folder/db_url",
-		"/untitled",
-		"/test.html"
 	],
 	"find":
 	{
-		"height": 45.0
+		"height": 0.0
 	},
 	"find_in_files":
 	{
@@ -406,18 +88,49 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 0.0
 	},
 	"input":
 	{
-		"height": 45.0
+		"height": 0.0
 	},
 	"layout":
 	{
@@ -442,10 +155,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 37.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -454,7 +163,7 @@
 	"project": "srvup.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 0.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -489,10 +198,10 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 258.0,
+	"side_bar_width": 186.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
