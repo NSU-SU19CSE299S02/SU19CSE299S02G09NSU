@@ -10,3 +10,4 @@ class Video(models.Model):
 
 ## model migrate
 ##migrate
+## model create
