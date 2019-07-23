@@ -7,5 +7,9 @@ from .models import Video
 
 admin.site.register(Video)
 
+<<<<<<< HEAD
 
 ##admin part
+=======
+
+>>>>>>> Feature-7-custom_admin
