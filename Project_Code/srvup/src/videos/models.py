@@ -9,3 +9,4 @@ class Video(models.Model):
 		return self.embade_code
 
 ## model migrate
+##migrate
