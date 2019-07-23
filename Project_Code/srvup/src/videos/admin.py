@@ -9,3 +9,4 @@ admin.site.register(Video)
 
 
 ##admin part
+##new admin part
