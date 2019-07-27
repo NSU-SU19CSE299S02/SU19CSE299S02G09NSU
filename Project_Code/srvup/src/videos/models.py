@@ -7,7 +7,3 @@ class Video(models.Model):
 
 	def __str__(self):
 		return self.embade_code
-
-## model migrate
-##migrate
-## model create
