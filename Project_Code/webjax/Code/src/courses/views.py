@@ -2,7 +2,8 @@ from django.shortcuts import render
 
 from django.views.generic import ListView, DetailView, View
 
-from .models import Course
+from memberships.models import UserMembership
+from .models import Course, Lesson
 
 class CourseListView(ListView):
 	model = Course
@@ -22,8 +23,29 @@ class LessonDetailView(View):
 		if lesson_qs.exists():
 			lesson = lesson_qs.first()
 
-		context = {
-			'object': lesson
-		}
+
+		user_membership = UserMembership.objects.filter(user=request.user).first()
+		user_membership_type = user_membership.membership
+
+		course_allowed_mem_types = course.allowed_memberships.all()
+
+		context = { 'object': None }
+
+		if course_allowed_mem_types.filter(membership_type=user_membership_type).exists():
+			context = { 'object': lesson}
 
 		return render(request, "courses/lesson_detail.html", context)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
