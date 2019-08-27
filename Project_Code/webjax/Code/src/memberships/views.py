@@ -168,4 +168,4 @@ def cancelSubscription(request):
         request, "Successfully cancelled membership. We have sent an email")
     # sending an email here
 
-    return redirect(reverse('memberships:select'))
+    return redirect(reverse('memberships:select')) 
