@@ -1,7 +1,7 @@
 <p align="center">
   <img width="460" height="300" src="Mockup/nsulogo.jpg">
 </p>
-<p align="center"> <h1> North South University </h1> </p>
+<center> <h1> North South University </h1></center>
 # SU19CSE299S02G09NSU
 <h3> A real life project for my CSE299 course in university.</h3>
  <h2> <center> Video Membership Web App  </center> </h2> 
