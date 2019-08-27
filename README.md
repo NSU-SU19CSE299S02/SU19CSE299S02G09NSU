@@ -1,3 +1,12 @@
+<p align="center">
+  <img width="460" height="300" src="Mockup/nsulogo.jpg">
+</p>
+<center> <h1> North South University </h1></center>
+<center> <h1> Submitted by : Ashraful Islam Alvee </h1> </center>
+<center> <h1> Submitted to : SHAIKH SHAWON AREFIN SHIMON </h1> </center>
+<center> <h1> Course : CSE299 </h1> </center>
+<center> <h1> Due date : 27 Aug 2019 </h1> </center>
+<center> </center>
 # SU19CSE299S02G09NSU
 <h3> A real life project for my CSE299 course in university.</h3>
  <h2> <center> Video Membership Web App  </center> </h2> 
