@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="460" height="300" src="mockup/nsulogo.jpg">
+</p>
 # SU19CSE299S02G09NSU
 <h3> A real life project for my CSE299 course in university.</h3>
  <h2> <center> Video Membership Web App  </center> </h2> 
